@@ -17,7 +17,7 @@
 - Praticar POO diretamente em um projeto Laravel. Sugestão de projetos:
     - Clone do Linktree (genérico. Apenas funcionalidade, não UI)
     - Site de currículo/perfil profissional
-        - Cadastra experiéncias, conhecimentos e outros links.
+        - Cadastra experiências, conhecimentos e outros links.
             - Interessante poder gerar PDF do perfil
             - Interessante poder compartilhar link via botões de 'social share'
             - Interessante se tiver campo para formulário de contato
